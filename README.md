@@ -15,8 +15,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 This work is distributed under the following terms:
 
-```
-You are not allowed to redistribute my resource pack without official download links. You are not allowed to repackage
+> You are not allowed to redistribute my resource pack without official download links. You are not allowed to repackage
 my assets into your own resource pack without explicit permission. Please contact me on Discord in order to work out
 permissions for your own projects.
-```
